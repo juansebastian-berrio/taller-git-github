@@ -1,0 +1,7 @@
+mi primera paractica con git y github
+
+Nombre: juan sebastian berrio 
+curso: open source
+fecha: 20/05/2026
+
+estoy aprendiendo a usar control de versiones.
